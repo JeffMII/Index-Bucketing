@@ -9,11 +9,17 @@ import json
 ## Index Bucketing ##
 ##### Jeff M II #####
 #####################
-#    see License    #
-# CC0 1.0 Universal #
-#  for permissions  #
-#  and limitations  #
+#  See License CCO  #
+#   1.0 Universal   #
 #####################
+## -- Amendment -- ##
+########################################
+# Permissions and limitations apply to #
+# this file, its contents, and the     #
+# thesis: Index Bucketing - A Novel    #
+# Approach to Manipulating Nested Data #
+# Structures and related works         #
+########################################
 
 name = "Index Bucketing"
 
